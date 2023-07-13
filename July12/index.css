@@ -1,0 +1,24 @@
+.container{
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.menu{
+    border: 1px solid red
+}
+
+.menu-SM{
+    border: 1px solid green
+}
+.menu-versioning{
+    border: 1px solid orange
+}
+
+.dark-mode{
+    border: 1px solid blue
+}
+
+.dark-mode select option i{
+    font-size: 100px;
+    color: black;
+}
